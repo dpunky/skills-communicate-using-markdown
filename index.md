@@ -2,4 +2,4 @@
 
 ## Test 2
 
-I added the H1 Title "Test" and H2 Title "Test"
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
